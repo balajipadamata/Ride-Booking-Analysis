@@ -48,9 +48,7 @@ This project is an interactive Power BI dashboard built to analyze ride booking 
 * Business Intelligence
 * Data Visualization
 
-## Dashboard Preview
 
-(Add screenshots of your dashboard here after uploading them.)
 
 ## Author
 
